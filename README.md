@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Bonjour, 
+je suis etudiant de developpement
+je suis interesé pour le backend
+j'espere avoir un bon avance, 
+bonne continuation a vous aussi :) 
+
 <!--
 **manelocana/Manelocana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

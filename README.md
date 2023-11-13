@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Bonjour, 
-je suis etudiant de developpement
+je suis etudiant de developpement \n 
 je suis interesé pour le backend
 j'espere avoir un bon avance, 
 bonne continuation a vous aussi :) 

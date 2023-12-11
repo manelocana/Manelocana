@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 Bonjour, 
-je suis etudiant de developpement,
-je suis interesé pour le backend,
-j'espere avoir un bon avance, 
-bonne continuation a vous aussi :) 
+je m'appelle Manel,
+je suis developpeur debutant, focalisé sur le backend.
+
 
 <!--
 **manelocana/Manelocana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +15,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: manelocana.dev@gmail.com  
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->

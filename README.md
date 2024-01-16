@@ -5,7 +5,7 @@ Bonjour,
 je m'appelle Manel,
 je suis developpeur debutant, focalisé sur le backend.
 
-En ce moment je travaille avec python (et som GUI de tkinter)
+En ce moment je travaille avec python (et son GUI de tkinter)
 J'utilise aussi FastAPI et MySql
 
 Je suis passioné de programation, pour devenir professionnel j'ai besoin d'apprendre plus.

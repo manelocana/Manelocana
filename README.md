@@ -5,19 +5,18 @@ Bonjour,
 je m'appelle Manel,
 je suis developpeur debutant, focalisé sur le backend.
 
-Dans c'est moment je suis avec python (et ça GUI de tkinter)
-Je joue aussi avec FastAPI et MySql
+En ce moment je travaille avec python (et som GUI de tkinter)
+J'utilise aussi FastAPI et MySql
 
-Je suis passioné de la programation, j'amarais bien apprendre plus.
+Je suis passioné de programation, pour devenir professionnel j'ai besoin d'apprendre plus.
 
-Je suis disponible et j'amarais pouvoir colaborer dans des proyects avec des autres colaborateurs.
+Je suis disponible et j'aimerais pouvoir collaborer dans des projets avec d'autres developpeurs.
 
-Dans c'est instant je travail le matin comment agent forestier, et j'etudie les apres-midi.
-Pour l'instant comment autodidacte, mais j'amarais bien suivre une formation pour bien estructurer mon apprentissage.
+Je travaille le matin comment agent forestier, et j'etudie les apres-midis, pour l'instant comment autodidacte, mais il me faut suivre une formation pour bien structurer mon apprentissage.
 
 Pour me contacter:  manelocana.dev@gmail.com
 
-Merci de l'ire et abientôt :)  
+Merci de lire et à bientôt :)  
 
 
 <!--

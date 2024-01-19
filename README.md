@@ -12,7 +12,7 @@ Je suis passioné de programation, pour devenir professionnel j'ai besoin d'appr
 
 Je suis disponible et j'aimerais pouvoir collaborer dans des projets avec d'autres developpeurs.
 
-Je travaille le matin comment agent forestier, et j'etudie les apres-midis, pour l'instant comme autodidacte, mais il me faut suivre une formation pour bien structurer mon apprentissage.
+Je travaille le matin comment agent forestier, et j'etudie les apres-midis, pour l'instant comme autodidacte, mais il  faut que j'intègre une formation afin de bien structurer mon apprentissage.
 
 Pour me contacter:  manelocana.dev@gmail.com
 

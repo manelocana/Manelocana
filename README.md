@@ -5,7 +5,7 @@ Bonjour,
 je m'appelle Manel,
 je suis developpeur debutant, focalisé sur le backend.
 
-En ce moment je travaille avec python.
+En ce moment je travaille avec Python.
 J'utilise aussi FastAPI et MySql
 
 Je suis passioné de programation, pour devenir professionnel j'ai besoin d'apprendre plus.

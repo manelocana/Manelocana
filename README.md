@@ -1,9 +1,12 @@
-### Hi there 👋
+# Bonjour, 👋
 
-Bonjour,
+## je m'appelle Manel,
+### developpeur debutant, focalisé sur le backend.
 
-je m'appelle Manel,
-je suis developpeur debutant, focalisé sur le backend.
+<p>
+  align="center"
+  
+</p>
 
 En ce moment je travaille avec Python.
 J'utilise aussi FastAPI et MySql

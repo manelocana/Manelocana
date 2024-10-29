@@ -5,14 +5,12 @@
 
 
 <!-- Tech Stack --> 
-
-<h3 align="Center">Languages and Tools:</h3>  
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="height: 4rem"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="height: 4rem"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="height: 4rem; background-color:white"/>
+<h3 align="Center">Langages et utils:</h3>  
+<p align="Center">
+  <a href='https://skillicons.dev'>
+    <img src='https://skillicons.dev/icons?i=python,fastapi,mysql,git,github,linux,debian,bash,md,vscode)](https://skillicons.dev' style='height: 4rem'/>
+  </a>
 </p>
-
 
 
 

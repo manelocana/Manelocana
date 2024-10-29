@@ -3,10 +3,18 @@
 ## je m'appelle Manel,
 ### developpeur debutant, focalisé sur le backend.
 
-<p>
-  align="center"
-  
+
+<!-- Tech Stack --> 
+
+<h3 align="Center">Languages and Tools:</h3>  
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="height: 4rem; background-color:white"/>
 </p>
+
+
+
 
 En ce moment je travaille avec Python.
 J'utilise aussi FastAPI et MySql

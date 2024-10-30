@@ -5,13 +5,21 @@
 
 
 <!-- Tech Stack --> 
-<h3 align="Center">Langages et utils:</h3>  
+<h3 align="Center">Langages:</h3>  
 <p align="Center">
   <a href='https://skillicons.dev'>
-    <img src='https://skillicons.dev/icons?i=python,fastapi,mysql,git,github,linux,debian,bash,md,vscode)](https://skillicons.dev' style='height: 4rem'/>
+    <img src='https://skillicons.dev/icons?i=python,fastapi,mysql )](https://skillicons.dev' style='height: 4rem'/>
   </a>
 </p>
 
+
+<!-- Tech Stack --> 
+<h3 align="Center">Utils:</h3>  
+<p align="Center">
+  <a href='https://skillicons.dev'>
+    <img src='https://skillicons.dev/icons?i=git,github,linux,debian,bash,md,vscode)](https://skillicons.dev' style='height: 4rem'/>
+  </a>
+</p>
 
 
 En ce moment je travaille avec Python.

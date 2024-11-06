@@ -4,9 +4,9 @@
 ![](https://th.bing.com/th/id/OIP.RQaKSriJiG_ikmTtQpHL5QHaEN?rs=1&pid=ImgDetMain)
 
 
-<p align="Center">
+<p>
   <a href='https://th.bing.com'>
-    <img src=(https://th.bing.com/th/id/OIP.RQaKSriJiG_ikmTtQpHL5QHaEN?rs=1&pid=ImgDetMain)/>
+    <img src=(https://th.bing.com/th/id/OIP.RQaKSriJiG_ikmTtQpHL5QHaEN?rs=1&pid=ImgDetMain) align="Center"/>
   </a>
 </p>
 

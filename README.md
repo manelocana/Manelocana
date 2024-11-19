@@ -1,15 +1,14 @@
 # Bonjour, 👋
 
 
-![](https://th.bing.com/th/id/OIP.RQaKSriJiG_ikmTtQpHL5QHaEN?rs=1&pid=ImgDetMain)
+<!--  ![](https://th.bing.com/th/id/OIP.RQaKSriJiG_ikmTtQpHL5QHaEN?rs=1&pid=ImgDetMain)  --> 
 
 
-<p>
+<p align="Center">
   <a href='https://th.bing.com'>
-    <img src=(https://th.bing.com/th/id/OIP.RQaKSriJiG_ikmTtQpHL5QHaEN?rs=1&pid=ImgDetMain) align="Center"/>
+    <img src='https://th.bing.com/th/id/OIP.RQaKSriJiG_ikmTtQpHL5QHaEN?rs=1&pid=ImgDetMain' />
   </a>
 </p>
-
 
 
 ## je m'appelle Manel,

@@ -1,7 +1,7 @@
 # Bonjour, 👋
 
 
-<!--  ![](https://th.bing.com/th/id/OIP.RQaKSriJiG_ikmTtQpHL5QHaEN?rs=1&pid=ImgDetMain)  --> 
+
 
 
 <p align="Center">

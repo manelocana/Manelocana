@@ -6,7 +6,7 @@
 
 <p align="Center">
   <a href=''>
-    <img src='https://github.com/manelocana/Manelocana/blob/main/Manel%20Ocana%20DEV%20Card.png' />
+    <img src='https://github.com/manelocana/Manelocana/blob/main/manel%20card.png' />
   </a>
 </p>
 

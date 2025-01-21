@@ -5,8 +5,8 @@
 
 
 <p align="Center">
-  <a href='https://th.bing.com'>
-    <img src='https://th.bing.com/th/id/OIP.RQaKSriJiG_ikmTtQpHL5QHaEN?rs=1&pid=ImgDetMain' />
+  <a href=''>
+    <img src='https://github.com/manelocana/Manelocana/blob/main/Manel%20Ocana%20DEV%20Card.png' />
   </a>
 </p>
 

@@ -6,12 +6,13 @@
 
 <p align="Center">
   <a href=''>
-    <img src='https://github.com/manelocana/Manelocana/blob/main/manel%20card.png' />
+    <img src='https://github.com/manelocana/Manelocana/blob/main/Card%20github%20manel.png' />
   </a>
 </p>
 
 
-## je m'appelle Manel,
+## Bonjour, 
+## je m'appelle Manel
 ### developpeur debutant, focalisé sur le backend.
 
 
@@ -38,13 +39,10 @@ J'utilise aussi FastAPI et MySql
 
 Je suis passioné de programation, pour devenir professionnel j'ai besoin d'apprendre plus.
 
-Je suis disponible et j'aimerais pouvoir collaborer dans des projets avec d'autres developpeurs.
-
 J'etudie pour l'instant comme autodidacte, mais il  faut que j'intègre une formation afin de bien structurer mon apprentissage.
 
 Pour me contacter:  manelocana.dev@gmail.com
 
-Merci de lire et à bientôt :)  
 
 
 <!--

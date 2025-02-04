@@ -29,7 +29,7 @@
 <h3 align="Center">Utils:</h3>  
 <p align="Center">
   <a href='https://skillicons.dev'>
-    <img src='https://skillicons.dev/icons?i=git,github,linux,debian,bash,md,vscode)](https://skillicons.dev' style='height: 4rem'/>
+    <img src='https://skillicons.dev/icons?i=git,github,linux,debian,md,vscode)](https://skillicons.dev' style='height: 4rem'/>
   </a>
 </p>
 

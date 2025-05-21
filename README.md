@@ -13,7 +13,7 @@
 
 ## Bonjour, 
 ## je m'appelle Manel
-### developpeur debutant, focalisé sur le backend.
+### étudiant en développement
 
 
 <!-- Tech Stack --> 
@@ -34,12 +34,19 @@
 </p>
 
 
-En ce moment je travaille avec Python.
-J'utilise aussi FastAPI et MySql
 
-Je suis passioné de programation, pour devenir professionnel j'ai besoin d'apprendre plus.
+💻 Étudiant en développement web full stack, passionné par le backend avec Python.
 
-J'etudie pour l'instant comme autodidacte, mais il  faut que j'intègre une formation afin de bien structurer mon apprentissage.
+🚀 Actuellement en train d’apprendre :
+- 🐍 Python (FastAPI, Flask)
+- 🛠️ JavaScript, HTML, CSS
+- 🧠 Bases de données SQL
+- 📦 Git, GitHub, Scrum et gestion de projet Agile (Jira, Trello)
+
+🎯 Objectif : devenir développeur backend et collaborer à des projets concrets.
+
+🎓 Je suis actuellement en formation chez **Ilaria Digital School**.
+
 
 Pour me contacter:  manelocana.dev@gmail.com
 

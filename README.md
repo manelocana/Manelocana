@@ -5,11 +5,6 @@
 </p>
 
 
-## Bonjour, 
-## je m'appelle Manel
-### étudiant en développement
-
-
 <!-- Tech Stack --> 
 <h3 align="Center">Langages:</h3> 
 <p align="Center">
@@ -46,6 +41,9 @@
 </p>
 
 <br>
+
+## Bonjour, je m'appelle Manel
+### étudiant en développement
 
 💻 Étudiant en développement web full stack, passionné par le backend avec Python.
 

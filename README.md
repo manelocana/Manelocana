@@ -55,8 +55,6 @@
 - 📦 Thunder-Client, Debian, Vscode, Mysql
 
 
-🎯 Objectif : devenir développeur backend et collaborer à des projets concrets.
-
 🎓 Je suis actuellement en formation chez **Ilaria Digital School**.
 
-Pour me contacter:  manelocana.dev@gmail.com
+🎯 Pour me contacter:  manelocana.dev@gmail.com

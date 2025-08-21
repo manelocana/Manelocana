@@ -6,10 +6,10 @@
 
 
 <!-- Tech Stack --> 
-<h3 align="Center">Langages:</h3> 
+<h3 align="Center">Langages Préférés:</h3> 
 <p align="Center">
   <a href='https://skillicons.dev'>
-    <img src='https://skillicons.dev/icons?i=python,js')](https://skillicons.dev' style='height: 4rem'/>
+    <img src='https://skillicons.dev/icons?i=python')](https://skillicons.dev' style='height: 4rem'/>
   </a>
 </p>
 
@@ -18,7 +18,7 @@
 <h3 align="Center">Tech web:</h3>  
 <p align="Center">
   <a href='https://skillicons.dev'>
-    <img src='https://skillicons.dev/icons?i=html,css')](https://skillicons.dev' style='height: 4rem'/>
+    <img src='https://skillicons.dev/icons?i=html,css,js')](https://skillicons.dev' style='height: 4rem'/>
   </a>
 </p>
 
@@ -27,7 +27,7 @@
 <h3 align="Center">Frameworks:</h3>  
 <p align="Center">
   <a href='https://skillicons.dev'>
-    <img src='https://skillicons.dev/icons?i=fastapi')](https://skillicons.dev' style='height: 4rem'/>
+    <img src='https://skillicons.dev/icons?i=flask,bootstrap')](https://skillicons.dev' style='height: 4rem'/>
   </a>
 </p>
 
@@ -36,23 +36,23 @@
 <h3 align="Center">Outils:</h3>  
 <p align="Center">
   <a href='https://skillicons.dev'>
-    <img src='https://skillicons.dev/icons?i=git,github,linux,debian,md,vscode,mysql')](https://skillicons.dev' style='height: 4rem'/>
+    <img src='https://skillicons.dev/icons?i=mysql,git,github,linux,debian,md,vscode')](https://skillicons.dev' style='height: 4rem'/>
   </a>
 </p>
 
 <br>
 
 ## Bonjour, je m'appelle Manel
-### étudiant en développement
+### étudiant en développement web
 
-💻 Étudiant en développement web full stack, passionné par le backend avec Python.
+💻 Étudiant en développement web full stack, passionné par Python.
 
 🚀 Actuellement en train d’apprendre :
-- 🐍 Python (FastAPI, Flask)
-- 🛠️ JavaScript, HTML, CSS
-- 🧠 Bases de données SQL
+- 🐍 Python (Flask et Bootstrap)
+- 🛠️ JS, HTML, CSS, BS5
+- 🧠 Bases de données SQL, mysql
 - 📦 Git, GitHub, Scrum et gestion de projet Agile (Jira, Trello)
-- 📦 Thunder-Client, Debian, Vscode, Mysql
+- 📦 Je utilise: Thunder-Client, Postman, Debian, Vscode
 
 
 🎓 Je suis actuellement en formation chez **Ilaria Digital School**.

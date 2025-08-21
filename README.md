@@ -12,8 +12,9 @@
     <img src='https://skillicons.dev/icons?i=python')](https://skillicons.dev' style='height: 4rem'/>
   </a>
 </p>
+<p align='center'>python</p>
 
-
+<br>
 <!-- Tech Stack --> 
 <h3 align="Center">Tech web:</h3>  
 <p align="Center">
@@ -21,8 +22,9 @@
     <img src='https://skillicons.dev/icons?i=html,css,js')](https://skillicons.dev' style='height: 4rem'/>
   </a>
 </p>
+<p align='center'>html - css - javascript</p>
 
-
+<br>
 <!-- Tech Stack --> 
 <h3 align="Center">Frameworks:</h3>  
 <p align="Center">
@@ -30,8 +32,9 @@
     <img src='https://skillicons.dev/icons?i=flask,bootstrap')](https://skillicons.dev' style='height: 4rem'/>
   </a>
 </p>
+<p align='center'>flask - bootstrap5</p>
 
-
+<br>
 <!-- Tech Stack --> 
 <h3 align="Center">Outils:</h3>  
 <p align="Center">
@@ -39,6 +42,7 @@
     <img src='https://skillicons.dev/icons?i=mysql,git,github,linux,debian,md,vscode')](https://skillicons.dev' style='height: 4rem'/>
   </a>
 </p>
+<p align='center'>mysql - git - github - linux - debian - markdown - vscode</p>
 
 <br>
 

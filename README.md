@@ -1,6 +1,6 @@
 <p align="Center">
   <a href=''>
-    <img src='https://github.com/manelocana/Manelocana/blob/main/Card%20github%20manel.png' />
+    <img src='https://github.com/manelocana/Manelocana/blob/main/hero_github_manelocana.png' />
   </a>
 </p>
 

@@ -52,7 +52,7 @@
 💻 Étudiant en développement web full stack, passionné par Python.
 
 🚀 Actuellement en train d’apprendre :
-- 🐍 Python (Flask et Bootstrap)
+- 🐍 Python (Flask)
 - 🛠️ JS, HTML, CSS, BS5
 - 🧠 Bases de données SQL, mysql
 - 📦 Git, GitHub, Scrum et gestion de projet Agile (Jira, Trello)
